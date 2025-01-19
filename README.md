@@ -1,0 +1,1 @@
+"A collection of HTML, CSS, and JavaScript projects designed to help you learn web development. It includes various coding examples and projects, with text formatting applied to enhance presentation."
